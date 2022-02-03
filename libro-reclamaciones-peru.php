@@ -184,8 +184,8 @@ function Libro_Reclamaciones(){
              echo '<p>Te Enviamos un Correo con los detalles de tu reclamo.</p>';
          }
      }
-     wp_enqueue_style( 'css_ldr', plugins_url( 'style.css', __FILE__ ));
-     wp_enqueue_script( 'js_ldr', plugins_url( 'app.js', __FILE__ ));
+     wp_enqueue_style( 'css_ldr', plugins_url( '/assets/css/main.min.css', __FILE__ ));
+     wp_enqueue_script( 'js_ldr', plugins_url( '/assets/js/app.js', __FILE__ ));
      ob_start();
  ?>
      <form action="<?php get_the_permalink(); ?>" method="post" id="form_ldr" class="section_form_ldr">
