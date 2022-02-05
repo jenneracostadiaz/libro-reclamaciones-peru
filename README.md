@@ -1,7 +1,9 @@
 # libro-reclamaciones-peru
+
 Contributors: Markethinkers
 Author URI: https://www.markethinkers.pe
 Tags: reclamos, utilidades, empresas, business, reclaims book, indecopi
+Tested up to: 5.9
 Stable tag: 1.0
 Requires PHP: ^7.2
 License: GPLv2 or later
@@ -34,11 +36,10 @@ Puede contactanos en https://www.markethinkers.pe
 3. Inserte el shordcode [libro_reclamaciones] en la página a instalar
 4. Puede revisar sus reclamos en la Sección Reclamos de su Dashboard de Wordpress
 
-1. Upload the plugin files to the `/wp-content/plugins/libro-de-reclamaciones` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress
-3. Insert the shordcode [libro_reclamaciones] in the page to be installed
-4. You can review your claims in the Claims section of your Wordpress Dashboard.
-
+5. Upload the plugin files to the `/wp-content/plugins/libro-de-reclamaciones` directory, or install the plugin through the WordPress plugins screen directly.
+6. Activate the plugin through the 'Plugins' screen in WordPress
+7. Insert the shordcode [libro_reclamaciones] in the page to be installed
+8. You can review your claims in the Claims section of your Wordpress Dashboard.
 
 == Frequently Asked Questions ==
 
@@ -55,6 +56,7 @@ De momento no, es explusivamente para Perú, pero nuestro equipo de desarrollo e
 Hemos creado el estandar con Perú, pero esto no limita a que podamos mejorar y hacer uso de una versión internacional, trabajaremos en más actualizaciones
 
 == Screenshots ==
+
 1. Datos del Consumidor
 2. Datos del bien contratado y detalles de la reclamación
 3. Observaciones y envio
@@ -63,10 +65,10 @@ Hemos creado el estandar con Perú, pero esto no limita a que podamos mejorar y 
 == Changelog ==
 
 = 1.0 =
-* Primera versión del Plugin
+
+- Primera versión del Plugin
 
 == Upgrade Notice ==
 
 = 1.0 =
 Funciona correctamente en la versión 5.8 y 5.9 de Wordpress
-
